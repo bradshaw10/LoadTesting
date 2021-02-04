@@ -1,0 +1,3 @@
+en=event_selected&_et=2403&ep.page_path=%2FHome&ep.eventCategory=Spike%20Island%20Tours&ep.eventLabel=click&ep.eventAction=cart&epn.eventValue=1&dl=http%3A%2F%2Flocalhost%2FHome
+en=page_view&_et=21&ep.page_path=%2FSlot%2F001
+en=page_view&_et=972&ep.page_path=%2FSlot%2F001&dr=http%3A%2F%2Flocalhost%3A4200%2FHome

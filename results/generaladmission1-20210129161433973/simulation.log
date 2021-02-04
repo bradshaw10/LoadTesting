@@ -1,0 +1,6 @@
+RUN	GeneralAdmission1	generaladmission1	1611936873973	 	3.5.0
+USER	GeneralAdmission1	START	1611936875834
+REQUEST		GetToken	1611936875872	1611936876281	OK	 
+REQUEST		GetToken Redirect 1	1611936876295	1611936876639	OK	 
+REQUEST		request_1	1611936876663	1611936877598	KO	jsonPath($.accessToken).find.exists, found nothing
+USER	GeneralAdmission1	END	1611936878725

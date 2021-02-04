@@ -1,0 +1,6 @@
+RUN	LocalSimulation4	localsimulation4	1611163895475	 	3.5.0
+USER	LocalSimulation4	START	1611163897084
+REQUEST		request_0	1611163897126	1611163901549	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_6	1611163902570	1611163906630	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_10	1611163907643	1611163907810	OK	 
+USER	LocalSimulation4	END	1611163907836

@@ -1,0 +1,4 @@
+en=event_selected&_et=45782&ep.page_path=%2FHome&ep.eventCategory=General%20Admission&ep.eventLabel=click&ep.eventAction=cart&epn.eventValue=1&dl=http%3A%2F%2Flocalhost%2FHome&dr=http%3A%2F%2Flocalhost%3A4200%2F
+en=page_view&_et=194&ep.page_path=%2FGeneral%2F2&dr=http%3A%2F%2Flocalhost%3A4200%2F
+en=page_view&_et=833&ep.page_path=%2FGeneral%2F2
+en=add_to_cart&_et=1970&ep.page_path=%2FGeneral%2F2&ep.eventCategory=shop&ep.eventLabel=click&ep.eventAction=cart&epn.eventValue=10

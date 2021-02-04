@@ -1,0 +1,72 @@
+RUN	LocalhostSimulation	localhostsimulation	1610028075979	LocalHostRun	3.5.0
+USER	LocalhostSimulation	START	1610028077700
+REQUEST		request_0	1610028077736	1610028078236	OK	 
+REQUEST		request_0 Redirect 1	1610028078250	1610028078415	OK	 
+ERROR	request_6: Failed to build request: Resource /localhostsimulation/0006_request.txt not found 	1610028078431
+ERROR	request_7: Failed to build request: Resource /localhostsimulation/0007_request.txt not found 	1610028078432
+REQUEST		request_4	1610028078451	1610028078495	OK	 
+REQUEST		request_5	1610028078452	1610028078508	OK	 
+REQUEST		request_3	1610028078454	1610028078558	OK	 
+REQUEST		request_1	1610028078455	1610028078595	OK	 
+REQUEST		request_2	1610028078456	1610028078780	OK	 
+REQUEST		request_8	1610028080792	1610028080797	OK	 
+ERROR	request_9: Failed to build request: Resource /localhostsimulation/0009_request.json not found 	1610028080798
+ERROR	request_10: Failed to build request: Resource /localhostsimulation/0010_request.json not found 	1610028080798
+REQUEST		request_11	1610028084804	1610028084908	OK	 
+REQUEST		request_12	1610028092918	1610028092922	OK	 
+ERROR	request_13: Failed to build request: Resource /localhostsimulation/0013_request.json not found 	1610028092922
+ERROR	request_14: Failed to build request: Resource /localhostsimulation/0014_request.json not found 	1610028092923
+ERROR	request_15: Failed to build request: Resource /localhostsimulation/0015_request.txt not found 	1610028093924
+ERROR	request_16: Failed to build request: Resource /localhostsimulation/0016_request.txt not found 	1610028096947
+REQUEST		request_17	1610028104959	1610028104963	OK	 
+ERROR	request_18: Failed to build request: Resource /localhostsimulation/0018_request.json not found 	1610028104963
+ERROR	request_19: Failed to build request: Resource /localhostsimulation/0019_request.json not found 	1610028104964
+REQUEST		request_20	1610028104990	1610028105026	OK	 
+REQUEST		request_23	1610028104999	1610028105028	OK	 
+REQUEST		request_21	1610028105007	1610028105032	OK	 
+REQUEST		request_25	1610028104992	1610028105210	OK	 
+REQUEST		request_36	1610028104998	1610028105217	OK	 
+REQUEST		request_28	1610028104971	1610028105272	OK	 
+REQUEST		request_26	1610028104997	1610028105277	OK	 
+REQUEST		request_24	1610028105002	1610028105280	OK	 
+REQUEST		request_22	1610028105004	1610028105281	OK	 
+REQUEST		request_29	1610028105010	1610028105340	OK	 
+REQUEST		request_27	1610028105010	1610028105385	OK	 
+REQUEST		request_21	1610028105033	1610028105660	OK	 
+REQUEST		request_35	1610028104993	1610028105809	OK	 
+REQUEST		request_30	1610028104970	1610028105906	OK	 
+REQUEST		request_33	1610028104990	1610028105907	OK	 
+REQUEST		request_40	1610028104995	1610028105910	OK	 
+REQUEST		request_42	1610028104969	1610028105911	OK	 
+REQUEST		request_37	1610028104991	1610028105912	OK	 
+REQUEST		request_39	1610028104996	1610028105914	OK	 
+REQUEST		request_38	1610028105003	1610028105946	OK	 
+REQUEST		request_41	1610028105008	1610028105990	OK	 
+REQUEST		request_32	1610028105001	1610028105999	OK	 
+REQUEST		request_31	1610028105005	1610028106000	OK	 
+REQUEST		request_34	1610028105009	1610028106004	OK	 
+REQUEST		request_43	1610028107012	1610028107044	OK	 
+ERROR	request_45: Failed to build request: Resource /localhostsimulation/0045_request.txt not found 	1610028107044
+ERROR	request_46: Failed to build request: Resource /localhostsimulation/0046_request.txt not found 	1610028107045
+REQUEST		request_47	1610028107046	1610028107066	OK	 
+REQUEST		request_44	1610028107045	1610028107226	OK	 
+REQUEST		request_48	1610028108228	1610028108412	OK	 
+REQUEST		request_49	1610028108417	1610028108496	OK	 
+REQUEST		request_52	1610028108413	1610028108594	OK	 
+REQUEST		request_50	1610028108415	1610028108604	OK	 
+REQUEST		request_51	1610028108416	1610028108606	OK	 
+REQUEST		request_53	1610028109609	1610028109794	OK	 
+REQUEST		request_54	1610028111807	1610028111999	OK	 
+REQUEST		request_55	1610028117004	1610028117184	OK	 
+ERROR	request_60: Failed to build request: Resource /localhostsimulation/0060_request.json not found 	1610028117190
+ERROR	request_63: Failed to build request: Resource /localhostsimulation/0063_request.json not found 	1610028117190
+ERROR	request_64: Failed to build request: Resource /localhostsimulation/0064_request.txt not found 	1610028117190
+REQUEST		request_59	1610028117194	1610028117202	OK	 
+REQUEST		request_56	1610028117191	1610028117377	OK	 
+REQUEST		request_61	1610028117193	1610028117381	OK	 
+REQUEST		request_58	1610028117192	1610028117382	OK	 
+REQUEST		request_62	1610028117201	1610028117383	OK	 
+REQUEST		request_57	1610028117195	1610028117474	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 400
+ERROR	request_65: Failed to build request: Resource /localhostsimulation/0065_request.txt not found 	1610028121483
+REQUEST		request_66	1610028122487	1610028122504	OK	 
+USER	LocalhostSimulation	END	1610028122521

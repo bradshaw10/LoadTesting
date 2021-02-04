@@ -1,0 +1,55 @@
+RUN	GeneralAdmission1	generaladmission1	1611936045285	 	3.5.0
+USER	GeneralAdmission1	START	1611936047506
+REQUEST		request_0	1611936047559	1611936048183	OK	 
+REQUEST		request_0 Redirect 1	1611936048208	1611936048694	OK	 
+ERROR	request_1: Failed to build request: Resource /generaladmission1/0001_request.txt not found 	1611936048723
+REQUEST		request_2	1611936049736	1611936049738	OK	 
+ERROR	request_3: Failed to build request: Resource /generaladmission1/0003_request.json not found 	1611936049741
+ERROR	request_4: Failed to build request: Resource /generaladmission1/0004_request.json not found 	1611936049742
+REQUEST		request_5	1611936050750	1611936050752	OK	 
+ERROR	request_6: Failed to build request: Resource /generaladmission1/0006_request.json not found 	1611936050755
+ERROR	request_7: Failed to build request: Resource /generaladmission1/0007_request.json not found 	1611936050755
+ERROR	request_8: Failed to build request: Resource /generaladmission1/0008_request.txt not found 	1611936050755
+ERROR	request_9: Failed to build request: Resource /generaladmission1/0009_request.txt not found 	1611936050755
+REQUEST		request_10	1611936054757	1611936054759	OK	 
+ERROR	request_11: Failed to build request: Resource /generaladmission1/0011_request.json not found 	1611936054762
+ERROR	request_12: Failed to build request: Resource /generaladmission1/0012_request.json not found 	1611936054762
+ERROR	request_24: Failed to build request: Resource /generaladmission1/0024_request.txt not found 	1611936054765
+REQUEST		request_14	1611936054823	1611936054837	OK	 
+REQUEST		request_15	1611936054811	1611936055018	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		request_25	1611936054821	1611936055031	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		request_23	1611936054781	1611936055365	OK	 
+REQUEST		request_20	1611936054817	1611936055437	OK	 
+REQUEST		request_18	1611936054810	1611936055478	OK	 
+REQUEST		request_19	1611936054808	1611936055555	OK	 
+REQUEST		request_16	1611936054814	1611936055688	OK	 
+REQUEST		request_17	1611936054822	1611936055789	OK	 
+REQUEST		request_36	1611936054823	1611936055822	OK	 
+REQUEST		request_22	1611936054813	1611936055840	OK	 
+REQUEST		request_21	1611936054820	1611936055928	OK	 
+REQUEST		request_32	1611936054807	1611936056016	OK	 
+REQUEST		request_37	1611936054808	1611936056027	OK	 
+REQUEST		request_31	1611936054807	1611936056030	OK	 
+REQUEST		request_34	1611936054808	1611936056093	OK	 
+REQUEST		request_30	1611936054809	1611936056096	OK	 
+REQUEST		request_28	1611936054810	1611936056102	OK	 
+REQUEST		request_29	1611936054812	1611936056106	OK	 
+REQUEST		request_13	1611936054809	1611936056109	OK	 
+REQUEST		request_33	1611936054815	1611936056193	OK	 
+REQUEST		request_35	1611936054818	1611936056196	OK	 
+REQUEST		request_26	1611936054819	1611936056332	OK	 
+REQUEST		request_27	1611936054820	1611936056336	OK	 
+REQUEST		request_38	1611936057347	1611936057555	OK	 
+REQUEST		request_39	1611936059560	1611936059744	OK	 
+REQUEST		request_40	1611936061754	1611936061937	OK	 
+REQUEST		request_41	1611936061941	1611936062125	OK	 
+REQUEST		request_42	1611936063129	1611936063319	OK	 
+ERROR	request_45: Failed to build request: Resource /generaladmission1/0045_request.json not found 	1611936063330
+ERROR	request_48: Failed to build request: Resource /generaladmission1/0048_request.json not found 	1611936063331
+ERROR	request_49: Failed to build request: Resource /generaladmission1/0049_request.txt not found 	1611936063331
+ERROR	request_50: Failed to build request: Resource /generaladmission1/0050_request.txt not found 	1611936063331
+REQUEST		request_43	1611936063335	1611936063375	OK	 
+REQUEST		request_46	1611936063332	1611936063538	OK	 
+REQUEST		request_47	1611936063333	1611936063541	OK	 
+REQUEST		request_44	1611936063336	1611936063813	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 400
+USER	GeneralAdmission1	END	1611936063835

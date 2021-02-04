@@ -1,0 +1,3 @@
+en=proceed_to_payment&_et=15161&ep.page_path=%2FGeneral%2F2&ep.eventCategory=shop&ep.eventLabel=click&ep.eventAction=cart&epn.eventValue=10&dl=http%3A%2F%2Flocalhost%2FGeneral%2F2
+en=page_view&_et=27&ep.page_path=%2FGeneralPayment
+en=page_view&_et=980&ep.page_path=%2FGeneralPayment&dr=http%3A%2F%2Flocalhost%3A4200%2FGeneral%2F2

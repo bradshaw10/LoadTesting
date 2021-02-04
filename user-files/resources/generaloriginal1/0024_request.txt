@@ -1,0 +1,2 @@
+en=page_view&_et=994&ep.page_path=%2FGeneralPayment
+en=add_address&_et=4385&ep.page_path=%2FGeneralPayment&ep.eventCategory=shop&ep.eventLabel=click&ep.eventAction=cart&epn.eventValue=1

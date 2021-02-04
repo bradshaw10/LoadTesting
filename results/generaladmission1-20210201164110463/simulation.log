@@ -1,0 +1,7 @@
+RUN	GeneralAdmission1	generaladmission1	1612197670463	 	3.5.0
+USER	GeneralAdmission1	START	1612197672050
+REQUEST		GetToken	1612197672083	1612197676463	KO	j.n.ConnectException: Connection refused: no further information
+ERROR	AddToCart: Failed to build request: No attribute named 'tokenID' is defined 	1612197681503
+ERROR	CreateGeneral: Failed to build request: No attribute named 'tokenID' is defined 	1612197682512
+REQUEST		StripeRequest	1612197684527	1612197685399	OK	 
+USER	GeneralAdmission1	END	1612197685460

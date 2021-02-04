@@ -1,0 +1,10 @@
+{
+  "simulation": "LocalhostSimulation",
+  "simulationId": "localhostsimulation",
+  "start": 1610028075979,
+  "description": "LocalHostRun",
+  "scenarios": ["LocalhostSimulation"],
+  "assertions": [
+
+  ]
+}

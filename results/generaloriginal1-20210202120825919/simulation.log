@@ -1,0 +1,55 @@
+RUN	GeneralOriginal1	generaloriginal1	1612267705919	 	3.5.0
+USER	GeneralOriginal1	START	1612267708367
+REQUEST		request_0	1612267708415	1612267708879	OK	 
+REQUEST		request_0 Redirect 1	1612267708905	1612267709640	OK	 
+ERROR	request_1: Failed to build request: Resource /generaloriginal1/0001_request.txt not found 	1612267709690
+REQUEST		request_2	1612267710708	1612267710721	OK	 
+ERROR	request_3: Failed to build request: Resource /generaloriginal1/0003_request.json not found 	1612267710737
+ERROR	request_4: Failed to build request: Resource /generaloriginal1/0004_request.json not found 	1612267710742
+REQUEST		CreateGeneral	1612267711750	1612267711761	OK	 
+ERROR	GeneralRequest: Failed to build request: Resource /generaloriginal1/0006_request.json not found 	1612267711770
+ERROR	GeneralRequest5001: Failed to build request: Resource /generaloriginal1/0007_request.json not found 	1612267711771
+ERROR	GoogleAnal: Failed to build request: Resource /generaloriginal1/0008_request.txt not found 	1612267711772
+ERROR	StripeRequest: Failed to build request: Resource /generaloriginal1/0009_request.txt not found 	1612267711773
+REQUEST		BookingDetauks	1612267715788	1612267715898	OK	 
+ERROR	request_11: Failed to build request: Resource /generaloriginal1/0011_request.json not found 	1612267715901
+ERROR	request_12: Failed to build request: Resource /generaloriginal1/0012_request.json not found 	1612267715901
+ERROR	request_24: Failed to build request: Resource /generaloriginal1/0024_request.txt not found 	1612267715904
+REQUEST		CreatePaymentIntent	1612267716186	1612267716235	OK	 
+REQUEST		request_25	1612267716046	1612267716267	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		request_15	1612267716145	1612267716287	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		request_20	1612267715932	1612267717096	OK	 
+REQUEST		request_18	1612267715971	1612267717208	OK	 
+REQUEST		request_17	1612267715987	1612267717309	OK	 
+REQUEST		request_19	1612267716004	1612267717348	OK	 
+REQUEST		request_36	1612267716019	1612267717415	OK	 
+REQUEST		request_16	1612267716033	1612267717586	OK	 
+REQUEST		request_23	1612267716096	1612267717698	OK	 
+REQUEST		request_22	1612267715975	1612267717921	OK	 
+REQUEST		request_13	1612267716067	1612267717993	OK	 
+REQUEST		request_21	1612267716156	1612267718107	OK	 
+REQUEST		request_37	1612267715991	1612267718183	OK	 
+REQUEST		request_30	1612267715995	1612267718185	OK	 
+REQUEST		request_35	1612267715999	1612267718193	OK	 
+REQUEST		request_34	1612267716013	1612267718196	OK	 
+REQUEST		request_32	1612267716028	1612267718199	OK	 
+REQUEST		request_29	1612267716061	1612267718209	OK	 
+REQUEST		request_28	1612267716108	1612267718213	OK	 
+REQUEST		request_31	1612267716128	1612267718217	OK	 
+REQUEST		request_27	1612267716138	1612267718237	OK	 
+REQUEST		request_26	1612267716160	1612267718364	OK	 
+REQUEST		request_33	1612267716171	1612267718403	OK	 
+REQUEST		request_38	1612267719452	1612267719816	OK	 
+REQUEST		request_39	1612267721829	1612267722025	OK	 
+REQUEST		request_40	1612267724044	1612267724418	OK	 
+REQUEST		request_41	1612267724434	1612267724648	OK	 
+REQUEST		request_42	1612267725667	1612267725857	OK	 
+ERROR	request_45: Failed to build request: Resource /generaloriginal1/0045_request.json not found 	1612267725866
+ERROR	request_48: Failed to build request: Resource /generaloriginal1/0048_request.json not found 	1612267725867
+ERROR	request_49: Failed to build request: Resource /generaloriginal1/0049_request.txt not found 	1612267725867
+ERROR	request_50: Failed to build request: Resource /generaloriginal1/0050_request.txt not found 	1612267725867
+REQUEST		request_43	1612267725873	1612267726022	OK	 
+REQUEST		request_47	1612267725993	1612267726317	OK	 
+REQUEST		request_46	1612267726014	1612267726429	OK	 
+REQUEST		request_44	1612267725921	1612267726892	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 400
+USER	GeneralOriginal1	END	1612267727216

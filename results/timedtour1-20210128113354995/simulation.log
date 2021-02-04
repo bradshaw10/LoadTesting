@@ -1,0 +1,50 @@
+RUN	TimedTour1	timedtour1	1611833634995	 	3.5.0
+USER	TimedTour1	START	1611833636764
+REQUEST		request_0	1611833636794	1611833637211	OK	 
+REQUEST		request_0 Redirect 1	1611833637236	1611833638055	OK	 
+REQUEST		request_1	1611833640094	1611833640101	OK	 
+ERROR	request_2: Failed to build request: Resource /timedtour1/0002_request.json not found 	1611833640110
+ERROR	request_3: Failed to build request: Resource /timedtour1/0003_request.json not found 	1611833640111
+ERROR	request_4: Failed to build request: Resource /timedtour1/0004_request.txt not found 	1611833640112
+ERROR	request_5: Failed to build request: Resource /timedtour1/0005_request.txt not found 	1611833640113
+ERROR	request_6: Failed to build request: Resource /timedtour1/0006_request.txt not found 	1611833658120
+ERROR	request_9: Failed to build request: Resource /timedtour1/0009_request.txt not found 	1611833661124
+REQUEST		request_14	1611833663137	1611833663157	OK	 
+ERROR	request_17: Failed to build request: Resource /timedtour1/0017_request.txt not found 	1611833663160
+ERROR	request_18: Failed to build request: Resource /timedtour1/0018_request.txt not found 	1611833663160
+REQUEST		request_16	1611833663186	1611833663219	OK	 
+REQUEST		request_15	1611833663195	1611833663237	OK	 
+REQUEST		request_15	1611833663252	1611833663281	OK	 
+REQUEST		request_19	1611833665300	1611833665315	OK	 
+ERROR	request_31: Failed to build request: Resource /timedtour1/0031_request.txt not found 	1611833665382
+REQUEST		request_25	1611833665388	1611833665554	OK	 
+REQUEST		request_26	1611833665438	1611833665561	OK	 
+REQUEST		runtime.js	1611833665397	1611833665576	OK	 
+REQUEST		request_23	1611833665409	1611833665642	OK	 
+REQUEST		request_21	1611833665435	1611833665658	OK	 
+REQUEST		polyfills.js	1611833665447	1611833665690	OK	 
+REQUEST		favicon.ico	1611833665451	1611833665775	OK	 
+REQUEST		request_20	1611833665487	1611833665781	OK	 
+REQUEST		request_29	1611833665495	1611833665805	OK	 
+REQUEST		styles.js	1611833665502	1611833665962	OK	 
+REQUEST		request_22	1611833665540	1611833666293	OK	 
+REQUEST		request_27	1611833665492	1611833666322	OK	 
+REQUEST		request_30	1611833665455	1611833666470	OK	 
+REQUEST		main.js	1611833665507	1611833666675	OK	 
+REQUEST		vendor.js	1611833665535	1611833668143	OK	 
+REQUEST		/	1611833665417	1611833670162	OK	 
+REQUEST		request_24	1611833665484	1611833670217	OK	 
+REQUEST		request_28	1611833665499	1611833670223	OK	 
+REQUEST		js?id=G-JM0RFMB8WQ	1611833665510	1611833670238	OK	 
+REQUEST		request_25	1611833665559	1611833670296	OK	 
+ERROR	request_32: Failed to build request: Resource /timedtour1/0032_request.txt not found 	1611833671300
+REQUEST		request_34	1611833672314	1611833672318	OK	 
+REQUEST		request_35	1611833672323	1611833672327	OK	 
+REQUEST		request_36	1611833672325	1611833672334	OK	 
+REQUEST		request_36	1611833672340	1611833672584	OK	 
+REQUEST		request_37	1611833673591	1611833673596	OK	 
+ERROR	request_38: Failed to build request: Resource /timedtour1/0038_request.json not found 	1611833673598
+ERROR	request_39: Failed to build request: Resource /timedtour1/0039_request.json not found 	1611833673599
+ERROR	request_40: Failed to build request: Resource /timedtour1/0040_request.txt not found 	1611833673599
+ERROR	request_41: Failed to build request: Resource /timedtour1/0041_request.txt not found 	1611833674612
+USER	TimedTour1	END	1611833674705

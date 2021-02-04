@@ -1,0 +1,10 @@
+{
+  "simulation": "SimplestPossibleSimulation",
+  "simulationId": "simplestpossiblesimulation",
+  "start": 1611870822838,
+  "description": "",
+  "scenarios": ["JSON"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "LocalSimulation4",
+  "simulationId": "localsimulation4",
+  "start": 1611144925798,
+  "description": "",
+  "scenarios": ["LocalSimulation4"],
+  "assertions": [
+
+  ]
+}

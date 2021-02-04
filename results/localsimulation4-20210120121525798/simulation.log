@@ -1,0 +1,15 @@
+RUN	LocalSimulation4	localsimulation4	1611144925798	 	3.5.0
+USER	LocalSimulation4	START	1611144927525
+REQUEST		request_0	1611144927574	1611144928135	OK	 
+REQUEST		request_0 Redirect 1	1611144928147	1611144928708	OK	 
+REQUEST		request_4	1611144928745	1611144928766	OK	 
+REQUEST		request_3	1611144928749	1611144928776	OK	 
+REQUEST		request_2	1611144928743	1611144928842	OK	 
+REQUEST		request_5	1611144928744	1611144928971	OK	 
+REQUEST		request_1	1611144928747	1611144929017	OK	 
+REQUEST		request_6	1611144930026	1611144930029	OK	 
+ERROR	request_7: Failed to build request: Resource /localsimulation4/0007_request.json not found 	1611144930034
+ERROR	request_8: Failed to build request: Resource /localsimulation4/0008_request.json not found 	1611144930034
+ERROR	request_9: Failed to build request: Resource /localsimulation4/0009_request.txt not found 	1611144930035
+ERROR	request_10: Failed to build request: Resource /localsimulation4/0010_request.txt not found 	1611144931045
+USER	LocalSimulation4	END	1611144931063

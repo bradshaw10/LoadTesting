@@ -1,0 +1,55 @@
+RUN	GeneralOriginal1	generaloriginal1	1612354419624	 	3.5.0
+USER	GeneralOriginal1	START	1612354421407
+REQUEST		request_0	1612354421441	1612354421831	OK	 
+REQUEST		request_0 Redirect 1	1612354421856	1612354422435	OK	 
+ERROR	request_1: Failed to build request: Resource /generaloriginal1/0001_request.txt not found 	1612354422460
+REQUEST		request_2	1612354423474	1612354423491	OK	 
+ERROR	request_3: Failed to build request: Resource /generaloriginal1/0003_request.json not found 	1612354423497
+ERROR	request_4: Failed to build request: Resource /generaloriginal1/0004_request.json not found 	1612354423498
+REQUEST		CreateGeneral	1612354424504	1612354424512	OK	 
+ERROR	GeneralRequest: Failed to build request: Resource /generaloriginal1/0006_request.json not found 	1612354424514
+ERROR	GeneralRequest5001: Failed to build request: Resource /generaloriginal1/0007_request.json not found 	1612354424514
+ERROR	GoogleAnal: Failed to build request: Resource /generaloriginal1/0008_request.txt not found 	1612354424514
+ERROR	StripeRequest: Failed to build request: Resource /generaloriginal1/0009_request.txt not found 	1612354424514
+REQUEST		BookingDetauks	1612354428526	1612354428533	OK	 
+ERROR	request_11: Failed to build request: Resource /generaloriginal1/0011_request.json not found 	1612354428536
+ERROR	request_12: Failed to build request: Resource /generaloriginal1/0012_request.json not found 	1612354428536
+ERROR	request_24: Failed to build request: Resource /generaloriginal1/0024_request.txt not found 	1612354428537
+REQUEST		CreatePaymentIntent	1612354428556	1612354428737	OK	 
+REQUEST		PrivateStripe	1612354428700	1612354428746	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		request_15	1612354428689	1612354428757	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 401
+REQUEST		StripeController	1612354428578	1612354429048	OK	 
+REQUEST		request_23	1612354428602	1612354429083	OK	 
+REQUEST		StripeFingerPrint4	1612354428636	1612354429147	OK	 
+REQUEST		request_36	1612354428646	1612354429189	OK	 
+REQUEST		StripeCountryRanges	1612354428692	1612354429352	OK	 
+REQUEST		request_30	1612354428565	1612354429601	OK	 
+REQUEST		request_28	1612354428569	1612354429620	OK	 
+REQUEST		request_35	1612354428621	1612354429636	OK	 
+REQUEST		request_37	1612354428640	1612354429680	OK	 
+REQUEST		request_13	1612354428628	1612354429739	OK	 
+REQUEST		StripeFingerPrint2	1612354428610	1612354429769	OK	 
+REQUEST		StripeFingerPrint3	1612354428686	1612354429892	OK	 
+REQUEST		request_22	1612354428598	1612354429970	OK	 
+REQUEST		request_26	1612354428654	1612354430003	OK	 
+REQUEST		request_27	1612354428658	1612354430007	OK	 
+REQUEST		request_34	1612354428662	1612354430011	OK	 
+REQUEST		request_32	1612354428671	1612354430019	OK	 
+REQUEST		StripeFingerPrint1	1612354428674	1612354430116	OK	 
+REQUEST		request_29	1612354428679	1612354430197	OK	 
+REQUEST		request_33	1612354428707	1612354430202	OK	 
+REQUEST		request_31	1612354428717	1612354430244	OK	 
+REQUEST		request_38	1612354431255	1612354431446	OK	 
+REQUEST		request_39	1612354433456	1612354433654	OK	 
+REQUEST		request_40	1612354435668	1612354435979	OK	 
+REQUEST		request_41	1612354435984	1612354436317	OK	 
+REQUEST		request_42	1612354437331	1612354437597	OK	 
+ERROR	request_45: Failed to build request: Resource /generaloriginal1/0045_request.json not found 	1612354437604
+ERROR	request_48: Failed to build request: Resource /generaloriginal1/0048_request.json not found 	1612354437605
+ERROR	request_49: Failed to build request: Resource /generaloriginal1/0049_request.txt not found 	1612354437605
+ERROR	request_50: Failed to build request: Resource /generaloriginal1/0050_request.txt not found 	1612354437605
+REQUEST		request_43	1612354437684	1612354437692	OK	 
+REQUEST		request_47	1612354437607	1612354437808	OK	 
+REQUEST		request_46	1612354437688	1612354437918	OK	 
+REQUEST		request_44	1612354437615	1612354438132	KO	status.find.in(200,201,202,203,204,205,206,207,208,209,304), found 400
+USER	GeneralOriginal1	END	1612354438151

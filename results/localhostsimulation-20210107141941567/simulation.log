@@ -1,0 +1,15 @@
+RUN	LocalhostSimulation	localhostsimulation	1610029181567	Local2	3.5.0
+USER	LocalhostSimulation	START	1610029183271
+REQUEST		request_0	1610029183322	1610029183661	OK	 
+REQUEST		request_0 Redirect 1	1610029183672	1610029184406	OK	 
+ERROR	request_6: Failed to build request: Resource /localhostsimulation/0006_request.txt not found 	1610029184415
+ERROR	request_7: Failed to build request: Resource /localhostsimulation/0007_request.txt not found 	1610029184416
+REQUEST		request_5	1610029184443	1610029184465	OK	 
+REQUEST		request_4	1610029184448	1610029184485	OK	 
+REQUEST		request_2	1610029184445	1610029184496	OK	 
+REQUEST		request_3	1610029184447	1610029184549	OK	 
+REQUEST		request_1	1610029184446	1610029184723	OK	 
+REQUEST		request_8	1610029186737	1610029186739	OK	 
+ERROR	request_9: Failed to build request: Resource /localhostsimulation/0009_request.json not found 	1610029186739
+ERROR	request_10: Failed to build request: Resource /localhostsimulation/0010_request.json not found 	1610029186739
+USER	LocalhostSimulation	END	1610029190754

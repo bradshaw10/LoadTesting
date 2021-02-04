@@ -1,0 +1,10 @@
+{
+  "simulation": "RecordedSimulation1",
+  "simulationId": "recordedsimulation1",
+  "start": 1610015379333,
+  "description": "BookTours run 1",
+  "scenarios": ["RecordedSimulation1"],
+  "assertions": [
+
+  ]
+}

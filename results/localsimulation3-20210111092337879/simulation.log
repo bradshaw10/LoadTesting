@@ -1,0 +1,21 @@
+RUN	LocalSimulation3	localsimulation3	1610357017879	 	3.5.0
+USER	LocalSimulation3	START	1610357019438
+REQUEST		request_0	1610357019470	1610357023890	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_11	1610357026900	1610357030991	KO	j.n.ConnectException: Connection refused: no further information
+ERROR	request_15: Failed to build request: Resource /localsimulation3/0015_request.txt not found 	1610357033004
+ERROR	request_16: Failed to build request: Resource /localsimulation3/0016_request.txt not found 	1610357034015
+REQUEST		request_17	1610357037024	1610357041108	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_42	1610357042110	1610357042247	OK	 
+ERROR	request_45: Failed to build request: Resource /localsimulation3/0045_request.txt not found 	1610357042273
+ERROR	request_46: Failed to build request: Resource /localsimulation3/0046_request.txt not found 	1610357042273
+REQUEST		request_44	1610357042301	1610357042404	OK	 
+REQUEST		request_43	1610357042286	1610357043069	OK	 
+REQUEST		request_47	1610357042316	1610357043086	OK	 
+REQUEST		request_48	1610357044090	1610357044275	OK	 
+REQUEST		request_49	1610357045288	1610357045502	OK	 
+REQUEST		request_50	1610357045503	1610357045688	OK	 
+REQUEST		request_51	1610357046691	1610357050771	KO	j.n.ConnectException: Connection refused: no further information
+REQUEST		request_57	1610357052782	1610357052807	OK	 
+ERROR	request_58: Failed to build request: Resource /localsimulation3/0058_request.json not found 	1610357052808
+ERROR	request_59: Failed to build request: Resource /localsimulation3/0059_request.txt not found 	1610357054819
+USER	LocalSimulation3	END	1610357054838

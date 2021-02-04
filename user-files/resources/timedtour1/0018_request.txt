@@ -1,0 +1,4 @@
+en=add_to_cart&_et=4135&ep.page_path=%2FSlot%2F001&ep.eventCategory=shop&ep.eventLabel=click&ep.eventAction=cart&epn.eventValue=10
+en=home&_et=3195&ep.page_path=%2FSlot%2F001&ep.eventCategory=shop&ep.eventLabel=click&ep.eventAction=cart&epn.eventValue=10
+en=page_view&_et=10&ep.page_path=%2FHome&dl=http%3A%2F%2Flocalhost%2FHome
+en=page_view&_et=999&ep.page_path=%2FHome&dl=http%3A%2F%2Flocalhost%2FHome&dr=http%3A%2F%2Flocalhost%3A4200%2FSlot%2F001

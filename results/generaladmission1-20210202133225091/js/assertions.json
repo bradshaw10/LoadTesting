@@ -1,0 +1,10 @@
+{
+  "simulation": "GeneralAdmission1",
+  "simulationId": "generaladmission1",
+  "start": 1612272745091,
+  "description": "",
+  "scenarios": ["GeneralAdmission1"],
+  "assertions": [
+
+  ]
+}

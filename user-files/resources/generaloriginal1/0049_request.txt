@@ -1,0 +1,3 @@
+en=payment_submitted&_et=1278&ep.page_path=%2FGeneralPayment&ep.eventCategory=payment&ep.eventLabel=click&ep.eventAction=cart&epn.eventValue=1
+en=payment_processed&_et=4841&ep.page_path=%2FGeneralPayment&ep.eventCategory=payment&ep.eventLabel=click&ep.eventAction=cart&epn.eventValue=1
+en=page_view&_et=11&ep.page_path=%2FConfirm&dl=http%3A%2F%2Flocalhost%2FConfirm

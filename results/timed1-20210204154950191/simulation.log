@@ -1,0 +1,10 @@
+RUN	Timed1	timed1	1612453790191	 	3.5.0
+USER	Timed1	START	1612453792323
+REQUEST		GetToken	1612453792372	1612453852373	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to booktoursstapi.azurewebsites.net/40.69.200.124:443 after 60000 ms
+ERROR	AddToCart: Failed to build request: No attribute named 'tokenID' is defined 	1612453853401
+ERROR	GetTours: Failed to build request: No attribute named 'tokenID' is defined 	1612453854405
+ERROR	AddTourToCart: Failed to build request: No attribute named 'tokenID' is defined 	1612453855407
+ERROR	CreateTimed: Failed to build request: No attribute named 'tokenID' is defined 	1612453856411
+ERROR	BookingDetails: Failed to build request: No attribute named 'checkoutTokenID' is defined 	1612453857413
+ERROR	ConfirmPayment: Failed to build request: No attribute named 'checkoutTokenID' is defined 	1612453857414
+USER	Timed1	END	1612453857421

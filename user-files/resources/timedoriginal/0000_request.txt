@@ -1,0 +1,3 @@
+en=home&_et=4509&ep.page_path=%2FConfirm&ep.eventCategory=shop&ep.eventLabel=click&ep.eventAction=cart&epn.eventValue=10&dl=http%3A%2F%2Flocalhost%2FConfirm
+en=page_view&_et=6&ep.page_path=%2FHome
+en=page_view&_et=995&ep.page_path=%2FHome&dr=http%3A%2F%2Flocalhost%3A4200%2FConfirm
