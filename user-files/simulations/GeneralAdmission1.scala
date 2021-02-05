@@ -22,13 +22,15 @@ class GeneralAdmission1 extends Simulation {
 			.post(url + "/api/Auth/GetToken/GEN")
 			.check(status is 200)
 			.check(jsonPath("$.accessToken").saveAs("tokenID")))
+		.exitHereIfFailed 
 		.pause(5)
+
 		.exec(http("AddToCart")
 			.put(url + "/api/Cart/Add/")
 			.body(RawFileBody("../resources/generaladmission1/0003_request.json"))
 			.header("Authorization", "Bearer ${tokenID}")
 			.header("Content-Type", "application/json"))
-            
+        .exitHereIfFailed    
 		.pause(3)
 
 		.exec(http("AddToCart2")
@@ -36,7 +38,7 @@ class GeneralAdmission1 extends Simulation {
 			.body(RawFileBody("../resources/generaladmission1/0003_request.json"))
 			.header("Authorization", "Bearer ${tokenID}")
 			.header("Content-Type", "application/json"))
-            
+        .exitHereIfFailed    
 		.pause(2)
 		.pause(r.nextInt(5))
 		
@@ -48,19 +50,23 @@ class GeneralAdmission1 extends Simulation {
 				.header("Authorization", "Bearer ${tokenID}")
 				.header("Content-Type", "application/json"))
 		}
+		.exitHereIfFailed
 		.pause(4)
+
 		.exec(http("BookingDetails")
 			.put(url + "/api/Booking/Details")	
 			.check(status is 200)
 			.header("Content-Type", "application/json")
 			.header("Authorization", "Bearer ${checkoutTokenID}")
 			.body(RawFileBody("../resources/generaladmission1/0011_request.json")))
-
+		.exitHereIfFailed
+		.pause(2)
 
 		.exec(http("ConfirmPayment")
 			.post(url + "/api/Stripe/ConfirmPayment")
 			.header("Content-Type", "application/json")
 			.header("Authorization", "Bearer ${checkoutTokenID}"))
+		.exitHereIfFailed
 		.pause(r.nextInt(8))
 
 

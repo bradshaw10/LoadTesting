@@ -1,6 +1,0 @@
-en=event_selected&_et=64972&ep.page_path=%2FHome&ep.eventCategory=General%20Admission&ep.eventLabel=click&ep.eventAction=cart&epn.eventValue=1&dl=http%3A%2F%2Flocalhost%2FHome&dr=http%3A%2F%2Flocalhost%3A4200%2FConfirm
-en=page_view&_et=29&ep.page_path=%2FGeneral%2FGEN&dr=http%3A%2F%2Flocalhost%3A4200%2FConfirm
-en=page_view&_et=979&ep.page_path=%2FGeneral%2FGEN
-en=add_to_cart&_et=1421&ep.page_path=%2FGeneral%2FGEN&ep.eventCategory=shop&ep.eventLabel=click&ep.eventAction=cart&epn.eventValue=10
-en=proceed_to_payment&_et=2409&ep.page_path=%2FGeneral%2FGEN&ep.eventCategory=shop&ep.eventLabel=click&ep.eventAction=cart&epn.eventValue=10
-en=page_view&_et=10&ep.page_path=%2FGeneralPayment&dl=http%3A%2F%2Flocalhost%2FGeneralPayment

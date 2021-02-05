@@ -1,4 +1,0 @@
-en=scroll&_et=319120&ep.page_path=%2FHome&epn.percent_scrolled=90&dl=http%3A%2F%2Flocalhost%2FHome
-en=event_selected&_et=162&ep.page_path=%2FHome&ep.eventCategory=General%20Admission&ep.eventLabel=click&ep.eventAction=cart&epn.eventValue=1&dl=http%3A%2F%2Flocalhost%2FHome
-en=page_view&_et=157&ep.page_path=%2FGeneral%2F2
-en=page_view&_et=867&ep.page_path=%2FGeneral%2F2&dr=http%3A%2F%2Flocalhost%3A4200%2FHome

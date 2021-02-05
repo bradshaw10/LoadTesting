@@ -1,3 +1,0 @@
-en=home&_et=2657&ep.page_path=%2FSlot%2F001&ep.eventCategory=shop&ep.eventLabel=click&ep.eventAction=cart&epn.eventValue=10&dl=http%3A%2F%2Flocalhost%2FSlot%2F001
-en=page_view&_et=15&ep.page_path=%2FHome
-en=page_view&_et=988&ep.page_path=%2FHome&dr=http%3A%2F%2Flocalhost%3A4200%2FSlot%2F001

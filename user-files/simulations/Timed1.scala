@@ -13,8 +13,6 @@ class Timed1 extends Simulation {
 		.userAgentHeader("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36")
 
 	
- 
-
     val url = "https://booktoursstapi.azurewebsites.net/"
 
 	val r = scala.util.Random

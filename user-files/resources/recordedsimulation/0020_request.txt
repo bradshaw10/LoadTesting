@@ -1,2 +1,0 @@
-en=page_view&_et=4328&ep.page_path=%2FSlotPayment
-en=page_view&_et=962&ep.page_path=%2FSlotPayment&dr=http%3A%2F%2Flocalhost%3A4200%2FTours%2F20210131
