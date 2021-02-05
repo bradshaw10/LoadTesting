@@ -28,7 +28,7 @@ build.log
 # project files to ignore
 /gatling-bundle/src/main/assembly/assembly-structure/results/*
 !/results/.gitkeep
-!/results
+results/
 untracked-*
 
 highcharts.js
