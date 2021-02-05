@@ -1,7 +1,0 @@
-RUN	LocalSimulation4	localsimulation4	1611782176270	 	3.5.0
-USER	LocalSimulation4	START	1611782177755
-REQUEST		request_0	1611782177783	1611782178280	OK	 
-REQUEST		request_0 Redirect 1	1611782178301	1611782187186	KO	j.i.IOException: Premature close
-REQUEST		request_6	1611782188200	1611782192249	KO	j.n.ConnectException: Connection refused: no further information
-REQUEST		request_10	1611782193254	1611782193376	OK	 
-USER	LocalSimulation4	END	1611782193394

@@ -1,4 +1,0 @@
-RUN	SimplestPossibleSimulation	simplestpossiblesimulation	1611871395066	 	3.5.0
-USER	JSON	START	1611871396700
-REQUEST		GET	1611871396739	1611871397342	KO	bodyString.find.transform.exists extraction crashed: transform crashed: j.l.StringIndexOutOfBoundsException: begin 30, end 10, length 157745
-USER	JSON	END	1611871397505

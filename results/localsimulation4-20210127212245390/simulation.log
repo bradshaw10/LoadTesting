@@ -1,7 +1,0 @@
-RUN	LocalSimulation4	localsimulation4	1611782565390	 	3.5.0
-USER	LocalSimulation4	START	1611782566883
-REQUEST		request_0	1611782566907	1611782567448	OK	 
-REQUEST		request_0 Redirect 1	1611782567457	1611782627463	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to localhost/127.0.0.1:5001 after 60000 ms
-REQUEST		request_6	1611782628483	1611782670232	KO	j.i.IOException: Premature close
-REQUEST		request_10	1611782671249	1611782671345	OK	 
-USER	LocalSimulation4	END	1611782671354

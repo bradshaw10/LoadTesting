@@ -1,7 +1,0 @@
-RUN	GeneralAdmission1	generaladmission1	1612197767059	 	3.5.0
-USER	GeneralAdmission1	START	1612197768741
-REQUEST		GetToken	1612197768774	1612197773182	KO	j.n.ConnectException: Connection refused: no further information
-ERROR	AddToCart: Failed to build request: No attribute named 'tokenID' is defined 	1612197778225
-ERROR	CreateGeneral: Failed to build request: No attribute named 'tokenID' is defined 	1612197779242
-REQUEST		BookingDetails	1612197783251	1612197787360	KO	j.n.ConnectException: Connection refused: no further information
-USER	GeneralAdmission1	END	1612197787369
